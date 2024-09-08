@@ -1,23 +1,7 @@
 ## Hi there 👋 and welcome to my GitHub page
----
+
 ## What do I do?
--C
-
--C++
-
--C#
-
--Python
-
--Java
-
--JavaScript
-
--HTML
-
--CSS
-
--VHDL
+C - C++ - C# - Python - Java - JavaScript - HTML - CSS - VHDL - UnrealEngine5
 
 
 
