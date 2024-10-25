@@ -1,7 +1,7 @@
 ## Hi there 👋 and welcome to my GitHub page
 
 ## What do I do?
-C - C++ - C# - Python - Java - JavaScript - HTML - CSS - VHDL - UnrealEngine5
+C - C++ - C# - Java - Python - Jupyter - JavaScript - HTML - CSS - VHDL - Scala - UnrealEngine5 - Minizinc
 
 
 
