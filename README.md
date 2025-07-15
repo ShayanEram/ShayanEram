@@ -7,7 +7,8 @@ C - C++ - C# - Java - Python - Jupyter - JavaScript - HTML - CSS - VHDL - Scala 
 - APP: Application (Windows/Linux x86-46) <br>
 - MPU: Microprocessor (Embedded Linux ARM) <br>
 - MCU: Microcontroller (Embedded ARM) <br>
-
+- FPGA: Field Programmable Gate Arrays <br>
+- AI: Artificial intelligence
 
 
 <!--
