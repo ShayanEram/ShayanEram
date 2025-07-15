@@ -3,6 +3,10 @@
 ## What do I do?
 C - C++ - C# - Java - Python - Jupyter - JavaScript - HTML - CSS - VHDL - Scala - UnrealEngine5 - Minizinc
 
+APP: Application (Windows/Linux x86-46)
+MPU: Microprocessor (Embedded Linux ARM)
+MCU: Microcontroller (Embedded ARM)
+
 
 
 <!--
